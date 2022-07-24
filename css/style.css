@@ -1,0 +1,9 @@
+.banner .container {
+  background-color: #ffebe8;
+}
+
+@media screen and (min-width: 992px) {
+  .carousel-item .half-width {
+    width: 50%;
+  }
+}
