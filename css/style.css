@@ -1,3 +1,7 @@
+.container {
+  width: 95%;
+}
+
 .banner .container {
   background-color: #ffebe8;
 }
